@@ -1,5 +1,5 @@
 <h2 align="center">Hello, I'm Felipe. :wave:
-  <p>Back-End Developer.</p>
+  <p>Back-end Developer since 2019.</p>
 </h2>
 
 <div align="center">
@@ -13,7 +13,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="42" alt="redis logo"  />
 </div>
-
-###
 
 <img src="https://github.com/Yuhtin/Yuhtin/blob/output/github-contribution-grid-snake.svg" alt="commit-snake">
