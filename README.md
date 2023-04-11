@@ -1,9 +1,5 @@
-# Olá, eu sou o Felipe. 👋
-
-💼 Trabalhando em organizações pessoais.
-
 <h2 align="center">Hello, I'm Felipe. :wave:
-  <p>Java Developer.</p>
+  <p>Back-End Developer.</p>
 </h2>
 
 <div align="center">
