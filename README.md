@@ -2,16 +2,16 @@
 
 💼 Trabalhando em organizações pessoais.
 
-![yiatzz's github stats](https://github-readme-stats.vercel.app/api?username=feelipaum&count_private=true&theme=radical)
+![yiatzz's github stats](https://github-readme-stats.vercel.app/api?username=felipecostadev&count_private=true&theme=radical)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felipaaum)
 
-<h2 align="center">:wave: Hello, I'm SlownDezy_
-  <p>Java developer from Brazil who started his career in 2020.</p>
+<h2 align="center">Hello, I'm Felipe. :wave:
+  <p>Java Developer.</p>
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=SlownDezy" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=felipecostadev" height="150" alt="stats graph"  />
 </div>
 
 ###
