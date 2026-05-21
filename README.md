@@ -8,13 +8,14 @@ Atualmente estudo e desenvolvo aplicações utilizando Java e Spring Boot, com f
 
 Tenho interesse em performance, escalabilidade e evolução contínua no desenvolvimento back-end.
 
-## ⚡ Stack principal
+## ⚡ Tecnologias
 
 - Java
 - Spring Boot
 - REST APIs
 - SQL & NoSQL
-- Git  
+- Git/GitHub
+- Jenkins
 
 ## 🎓 Formação
 
