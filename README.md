@@ -1,12 +1,12 @@
 # Felipe Costa
 
-Desenvolvedor Back-End focado em REST APIs, sistemas e aprendizado contínuo sobre arquitetura e performance.
+Desenvolvedor Back-End focado em Java, APIs REST e desenvolvimento de sistemas escaláveis.
 
 ## 🚀 Sobre mim
 
-Atuando com Java na criação de APIs, sistemas e soluções voltadas para performance. 
+Atualmente estudo e desenvolvo aplicações utilizando Java e Spring Boot, com foco em boas práticas, arquitetura de software e código bem estruturado.
 
-Tenho interesse em arquitetura de software, otimização de aplicações e desenvolvimento de sistemas escaláveis, buscando sempre evoluir tecnicamente e escrever código bem estruturado.
+Tenho interesse em performance, escalabilidade e evolução contínua no desenvolvimento back-end.
 
 ## ⚡ Stack principal
 
