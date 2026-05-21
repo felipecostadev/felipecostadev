@@ -8,7 +8,7 @@ Atuando com Java na criação de APIs, sistemas e soluções voltadas para perfo
 
 Tenho interesse em arquitetura de software, otimização de aplicações e desenvolvimento de sistemas escaláveis, buscando sempre evoluir tecnicamente e escrever código bem estruturado.
 
-# ⚡ Stack principal
+## ⚡ Stack principal
 
 - Java
 - Spring Boot
@@ -16,12 +16,12 @@ Tenho interesse em arquitetura de software, otimização de aplicações e desen
 - SQL & NoSQL
 - Git  
 
-# 🎓 Formação
+## 🎓 Formação
 
 **Bacharelado em Engenharia de Software**  
 Universidade Católica do Salvador — 2024 • 2028
 
-# 📫 Contato
+## 📫 Contato
 
 - Email: `felipe.menezes@ucsal.edu.br`
 - LinkedIn: `https://www.linkedin.com/in/felipecostadev/`
