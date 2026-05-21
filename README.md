@@ -1,6 +1,6 @@
 # Felipe Costa
 
-Desenvolvedor Back-End focado em Java, APIs REST e desenvolvimento de sistemas escaláveis.
+Desenvolvedor Back-End focado em Java, REST APIs e desenvolvimento de sistemas escaláveis.
 
 ## 🚀 Sobre mim
 
