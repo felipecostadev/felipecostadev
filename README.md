@@ -1,6 +1,6 @@
 # Felipe Costa
 
-Desenvolvedor Back-End focado em APIs REST, sistemas e aprendizado contínuo sobre arquitetura e performance.
+Desenvolvedor Back-End focado em REST APIs, sistemas e aprendizado contínuo sobre arquitetura e performance.
 
 ## 🚀 Sobre mim
 
